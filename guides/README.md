@@ -4,9 +4,12 @@
 
 This directory contains practical tutorials that readers can reproduce step by step.
 
+Available:
+
+- [Run a text-generation LLM locally on Windows](local-deployment/README.md) | [简体中文](local-deployment/README.zh-CN.md)
+
 Planned sections:
 
-- `local-deployment/` — local text-generation LLM deployment
 - `model-selection/` — model, quantization, hardware, and task selection
 - `tools-and-clients/` — LM Studio and other user-facing tools
 - `online-llms/` — hosted models and services

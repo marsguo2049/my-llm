@@ -37,6 +37,10 @@ my-llm/
 └── LICENSE                       MIT 许可证
 ```
 
+## 已发布教程
+
+- [在 Windows 本地运行文本生成大模型](guides/local-deployment/README.zh-CN.md)——面向零基础用户，涵盖硬件判断、GGUF 模型选择、LM Studio、加载参数、本地 API 验证、隐私和故障排查。
+
 ## 当前实践项目
 
 - [Local LLM Word Translator](https://github.com/marsguo2049/local-llm-word-translator)——通过 LM Studio 调用本地大模型、以隐私保护为优先并支持断点续传的 Word 翻译工作流。
@@ -52,7 +56,7 @@ my-llm/
 
 ## 当前状态
 
-仓库目前处于起步阶段。第一份教程将面向零基础用户，介绍如何在 Windows 中通过 LM Studio 本地运行文本生成 GGUF 模型。
+仓库目前处于起步阶段。第一份 Windows + LM Studio + GGUF 零基础部署教程已经发布，并会随着软件生态变化持续更新。
 
 ## 许可证
 

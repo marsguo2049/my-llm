@@ -37,6 +37,10 @@ my-llm/
 └── LICENSE                       MIT License
 ```
 
+## Available guides
+
+- [Run a text-generation LLM locally on Windows](guides/local-deployment/README.md) — a beginner workflow covering hardware, GGUF model selection, LM Studio, loading parameters, local API verification, privacy, and troubleshooting.
+
 ## Current practical project
 
 - [Local LLM Word Translator](https://github.com/marsguo2049/local-llm-word-translator) — a privacy-first, resumable Word translation workflow using a local LLM through LM Studio.
@@ -52,7 +56,7 @@ my-llm/
 
 ## Status
 
-This repository is at an early stage. The initial focus will be a beginner-friendly Windows guide for running a text-generation GGUF model locally with LM Studio.
+This repository is at an early stage. The first beginner-friendly Windows guide for running a text-generation GGUF model locally with LM Studio is now available and will be updated as the software ecosystem changes.
 
 ## License
 
