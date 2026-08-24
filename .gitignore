@@ -1,0 +1,28 @@
+# Private or machine-specific material
+private/
+secrets/
+.env
+.env.*
+config.json
+*.log
+
+# Large model and generated data files
+models/
+*.gguf
+*.safetensors
+*.ckpt
+*.doc
+*.docx
+*.pdf
+
+# Python and editor files
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.idea/
+.vscode/
+
+# Operating-system files
+.DS_Store
+Thumbs.db
