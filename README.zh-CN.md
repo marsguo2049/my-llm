@@ -45,6 +45,10 @@ my-llm/
 
 - [Local LLM Word Translator](https://github.com/marsguo2049/local-llm-word-translator)——通过 LM Studio 调用本地大模型、以隐私保护为优先并支持断点续传的 Word 翻译工作流。
 
+## 新的项目方向
+
+- [LLM Workflow OR](notes/llm-workflow-or.md)——把文本、提示词、图像、视频与评估等 AI 能力抽象成 Python 可调用的模块，并进一步研究如何针对具体任务选择和优化模型、参数、计算预算与工作流结构。
+
 ## 写作原则
 
 1. 从第一性原理出发，并解释读者可能不熟悉的术语。
