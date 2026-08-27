@@ -45,6 +45,10 @@ my-llm/
 
 - [Local LLM Word Translator](https://github.com/marsguo2049/local-llm-word-translator) — a privacy-first, resumable Word translation workflow using a local LLM through LM Studio.
 
+## Emerging project direction
+
+- [LLM Workflow OR](notes/llm-workflow-or.md) — modularize text, image, video, prompt-generation and evaluation capabilities behind Python interfaces, then study how models, configurations and workflow structures can be selected and optimized for each task.
+
 ## Writing principles
 
 1. Start from first principles and explain unfamiliar terms.
